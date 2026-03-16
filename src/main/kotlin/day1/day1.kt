@@ -1,5 +1,6 @@
-package org.example
+package org.example.day1
 
+import org.example.day3.partOne
 import org.example.util.InputReader
 
 fun main() {
